@@ -1,10 +1,8 @@
 # 🧠📡 WSB — WiFi Scanner Brainfuck
 
-WSB (**WiFi Scanner Brainfuck**) adalah project eksperimental dan edukatif yang
-menggabungkan **WiFi scanning di Windows & Linux** dengan bahasa esoterik
-**Brainfuck** sebagai *frontend parser*.
+WSB (**WiFi Scanner Brainfuck**) adalah project edukatif
 
-> ⚠️ Project ini **BUKAN alat hacking**  
+> ⚠️ Project ini 
 > Dibuat untuk **edukasi**
 
 ---
