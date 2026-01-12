@@ -15,7 +15,6 @@ WSB (**WiFi Scanner Brainfuck**) adalah project edukatif
 - 💻 CLI ringan & sederhana
 - 🧪 Cocok untuk:
   - Edukasi networking
-  - Demo Brainfuck
   - Eksperimen sistem & bahasa ekstrem
 
 ---
